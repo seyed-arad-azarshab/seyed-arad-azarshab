@@ -1,7 +1,7 @@
 - 👋 Hi, I’m seyed arad azarshab
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 You can contact me by email
+- 📫 You can contact me by email and facebook
 
 <!---
 seyed-arad-azarshab/seyed arad azarshab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
